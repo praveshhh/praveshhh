@@ -51,10 +51,17 @@ An autonomous, secure DevOps agent built for the **Coral Hackathon** that unifie
 
 ### 📊 Dev Telemetry & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveshhh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveshhh&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180" />
-</p>
+### 🛠️ Core Tech Stack & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+ ### 📊 Dev Telemetry & Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveshhh&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveshhh&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
